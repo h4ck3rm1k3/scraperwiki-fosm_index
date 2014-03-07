@@ -1,0 +1,2 @@
+scraper that creates the index of the http://fosm.org database,
+we will have to create more scripts, also ones that process changesets later on.
